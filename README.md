@@ -4,7 +4,7 @@
 
 
  Price varies depends in every store
- ## 1
+## 1
 ### OPPO A15s
 # Price starts at 8,999.00 PHP
 ![OPPO-A15s](https://user-images.githubusercontent.com/99818015/156383907-a0e6c3fb-0f0a-4bb2-babc-6163ab61320e.jpg)
