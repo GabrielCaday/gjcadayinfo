@@ -1,10 +1,11 @@
 ## Welcome to gj sites 
 
-# 5 Best Budget Phones Budget and afforfable phones inside our market.
+# 5 Best Budget Phones Budget Under 10,000 Pesos inside our market.
 
 
  Price varies depends in every store
 ## OPPO A15s
+# PRICE 8,999.00 PHP
 ![OPPO-A15s](https://user-images.githubusercontent.com/99818015/156383907-a0e6c3fb-0f0a-4bb2-babc-6163ab61320e.jpg)
 ## SPECS
 Height: about 164.0mm
