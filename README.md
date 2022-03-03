@@ -1,4 +1,4 @@
-## Welcome to gg sites 
+## Welcome to gj sites 
 
 # 5 Best Budget Phones Budget and afforfable phones inside our market.
 
