@@ -1,6 +1,6 @@
 ## Welcome to gj sites 
 
-# 5 Best Budget Phones Budget Under 10,000 Pesos inside our market.
+# 5 Best Budget Phones Under 10,000 Pesos inside our market.
 
 
  Price varies depends in every store
