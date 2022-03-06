@@ -52,7 +52,7 @@ SIM Card Type: Nano-SIM/Nano USIM
 
 ## 2
 ### Xiaomi Redmi 10
-# Price starts at 7,590 Php
+# Price starts at 7,590 PHP
 ![Xiaomi-Redmi-10](https://user-images.githubusercontent.com/99818015/156581020-4848f26d-2af2-405a-be24-b8bbcf361bb9.jpg)
 ## SPECS:
 Mediatek Helio G88
@@ -130,23 +130,17 @@ NETWORKS
 4G LTE, 3G HSPA+, 2G EDGE & GPRS Networks
 WI-FI
 Wi-Fi 802.11 b/g/n/ac (Dual Band)
-- Bulleted
-- List
 
-1. Numbered
-2. List
+- Check out our new website 
+- For
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details contact us on gmail @gjcaday@gnbox.adnu.edu.ph
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GabrielCaday/Ggcaday.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Support or Contact us in email and telephone number
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
