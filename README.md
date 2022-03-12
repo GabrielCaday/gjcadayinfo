@@ -131,15 +131,13 @@ NETWORKS
 WI-FI
 Wi-Fi 802.11 b/g/n/ac (Dual Band)
 
-- Check out our new website 
-- For
 
 
 For more details contact us on gmail @gjcaday@gnbox.adnu.edu.ph
 
-### Jekyll Themes
+### @gjcaday@gbox.adnu.edu.ph
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GabrielCaday/Ggcaday.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Linnk to this website (https://github.com/GabrielCaday/Ggcaday.github.io/settings/pages). 
 
 ### Support or Contact us in email and telephone number
 
