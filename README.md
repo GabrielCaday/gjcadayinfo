@@ -139,6 +139,9 @@ For more details contact us on gmail @gjcaday@gnbox.adnu.edu.ph
 
 Linnk to this website (https://github.com/GabrielCaday/Ggcaday.github.io/settings/pages). 
 
-### Support or Contact us in email and telephone number
+### Support us on facebook 
+# gjsites
+## For more gadjets update and many other more prodcucts.
+
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
